@@ -1,0 +1,12 @@
+﻿<Window x:Class="AsistenteVirtualSTABLE.Calculadora_Cientifica"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsistenteVirtualSTABLE"
+        mc:Ignorable="d"
+        Title="Calculadora_Cientifica" Height="600" Width="400" Background="White" Foreground="{x:Null}" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        
+    </Grid>
+</Window>

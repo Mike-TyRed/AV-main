@@ -1,0 +1,168 @@
+﻿<Window x:Name="window" x:Class="AsistenteVirtualSTABLE.EditorCmd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsistenteVirtualSTABLE"
+        mc:Ignorable="d"
+       Title="Comandos del Sistema" Height="380" Width="790" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}" MouseLeftButtonDown="Window_MouseLeftButtonDown" ResizeMode="NoResize" Foreground="{x:Null}" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="HeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="CenterCellStyle" TargetType="{x:Type DataGridCell}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type DataGridCell}">
+                        <Grid Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="Background" Value="Transparent"/>
+                <Trigger Property="BorderBrush" Value="Transparent"/>
+                <Trigger Property="Foreground" Value="Transparent"/>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="EstiloUniversal" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill)" Storyboard.TargetName="path">
+                                                <DiscreteObjectKeyFrame KeyTime="0">
+                                                    <DiscreteObjectKeyFrame.Value>
+                                                        <SolidColorBrush Color="#972250B9"/>
+                                                    </DiscreteObjectKeyFrame.Value>
+                                                </DiscreteObjectKeyFrame>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed"/>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Path x:Name="path" Data="M856.58821,35.449908 L879.03163,35.392173 879.03401,40.769734 877.48524,44.183541 854.98062,44.10902 854.99904,38.671487 z" Stretch="Fill" Stroke="#FF2250B9" StrokeThickness="1" Margin="0,0,0,-0.167"/>
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsFocused" Value="True"/>
+                            <Trigger Property="IsDefaulted" Value="True"/>
+                            <Trigger Property="IsMouseOver" Value="True"/>
+                            <Trigger Property="IsPressed" Value="True"/>
+                            <Trigger Property="IsEnabled" Value="False"/>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+            <Setter Property="Foreground" Value="#FF68A3DF"/>
+        </Style>
+        <Storyboard x:Key="Inicio">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="window">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Style x:Key="ButtonAyudaStyle" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <Rectangle x:Name="btnA" RadiusY="10" RadiusX="10" Stroke="#FF2250B9">
+                                <Rectangle.Fill>
+                                    <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/help-button.png"/>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsFocused" Value="True"/>
+                            <Trigger Property="IsDefaulted" Value="True"/>
+                            <Trigger Property="IsMouseOver" Value="True"/>
+                            <Trigger Property="IsPressed" Value="True"/>
+                            <Trigger Property="IsEnabled" Value="False"/>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Background" Value="{x:Null}"/>
+        </Style>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Inicio}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid Width="790">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle HorizontalAlignment="Left" Height="380" Stroke="#FF044983" VerticalAlignment="Top" Width="790" RadiusY="5" RadiusX="5">
+            <Rectangle.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF01203D" Offset="0"/>
+                    <GradientStop Color="#FF040A16" Offset="1"/>
+                </RadialGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="lblTitle" Content="COMANDOS DEL SISTEMA" HorizontalAlignment="Left" Height="28" Margin="270,6,0,0" VerticalAlignment="Top" Width="250" Foreground="#FF72B1EE" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontFamily="Roboto" BorderThickness="12,0,0,0">
+            <Label.Effect>
+                <DropShadowEffect Color="#FF0076FF" ShadowDepth="0" BlurRadius="25"/>
+            </Label.Effect>
+        </Label>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="7,72,0,0" Stroke="#FF044983" VerticalAlignment="Top" Width="756" Fill="#FF013B6E"/>
+        <Label x:Name="lblcomandoTitle" Content="COMANDO+" HorizontalAlignment="Left" Margin="97,73,0,0" VerticalAlignment="Top" Foreground="#FFB3CAFF" FontFamily="Arial" FontSize="11" Height="23" Width="74" MinWidth="74" MinHeight="23" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MaxWidth="74" MaxHeight="23"/>
+        <Label x:Name="lblRespuesta" Content="RESPUESTA+" HorizontalAlignment="Left" Margin="600,73,0,0" VerticalAlignment="Top" Foreground="#FFB3CAFF" FontFamily="Arial" FontSize="11" Height="23" Width="82" MinWidth="82" MinHeight="23" MaxWidth="82" MaxHeight="23" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label x:Name="lblaccionTitle" Content="ACCION+" HorizontalAlignment="Left" Margin="361,73,0,0" VerticalAlignment="Top" Foreground="#FFB3CAFF" FontFamily="Arial" FontSize="11" Height="23" Width="59" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MaxWidth="59" MaxHeight="23" MinWidth="59" MinHeight="23"/>
+        <DataGrid x:Name="DataGridP" CellStyle="{DynamicResource CenterCellStyle}" HorizontalAlignment="Left" Height="240" Margin="7,97,0,0" VerticalAlignment="Top" Width="775" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Disabled" HeadersVisibility="None" Background="{x:Null}" BorderBrush="#FF034278" ColumnWidth="253" HorizontalGridLinesBrush="{x:Null}" VerticalGridLinesBrush="#FF034278" GridLinesVisibility="Vertical" Foreground="White" RowBackground="#E5051333" MinColumnWidth="10" UseLayoutRounding="True" CellEditEnding="DataGridP_CellEditEnding" SelectedCellsChanged="DataGridP_SelectedCellsChanged" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" BorderThickness="1,1,0,1" Padding="0" IsSynchronizedWithCurrentItem="False">
+            <DataGrid.Resources>
+                <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="#FF006DC3"/>
+            </DataGrid.Resources>
+        </DataGrid>
+        <Button x:Name="BtnSociales" Content="SOCIALES" HorizontalAlignment="Left" Height="25" Margin="7,38,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnSociales_Click" FontSize="11"/>
+        <Button x:Name="BtnNuevoComando" Content="NUEVO COMANDO" HorizontalAlignment="Left" Height="25" Margin="515,347,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="120" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnNuevoComando_Click" FontSize="11"/>
+        <Button x:Name="BtnIO" Content="BASE DE DATOS" HorizontalAlignment="Left" Height="25" Margin="20,347,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnIO_Click" FontSize="11"/>
+        <Button x:Name="BtnCarpetas" Content="CARPETAS" HorizontalAlignment="Left" Height="25" Margin="134,38,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnCarpetas_Click" FontSize="11"/>
+        <Button x:Name="BtnAplicaciones" Content="APLICACIONES" HorizontalAlignment="Left" Height="25" Margin="264,38,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnAplicaciones_Click" FontSize="11"/>
+        <Button x:Name="BtnPaginasWebs" Content="PAGINAS WEBS" HorizontalAlignment="Left" Height="25" Margin="394,38,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnPaginasWebs_Click" FontSize="11"/>
+        <Button x:Name="BtnInternos" Content="INTERNOS" HorizontalAlignment="Left" Height="25" Margin="524,38,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnInternos_Click" FontSize="11"/>
+        <Button x:Name="BtnAvanzados" Content="AVANZADOS" HorizontalAlignment="Left" Height="25" Margin="653,38,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" FontSize="11" Click="BtnAvanzados_Click"/>
+        <Button x:Name="BtnEliminarComando" Content="ELIMINAR" HorizontalAlignment="Left" Height="25" Margin="645,347,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Roboto" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnEliminarComando_Click" FontSize="11"/>
+        <Button x:Name="BtnCerrar" Content="X" HorizontalAlignment="Left" Margin="766,2,0,0" VerticalAlignment="Top" Width="20" Height="30" Background="{x:Null}" Foreground="#FF72B1EE" BorderBrush="{x:Null}" FontFamily="Arial" FontSize="14" Click="BtnCerrar_Click"/>
+        <Button x:Name="BtnMinimizar" Content="_" Margin="744,2,26,0" VerticalAlignment="Top" Height="30" Background="{x:Null}" Foreground="#FF72B1EE" BorderBrush="{x:Null}" FontFamily="Arial" Click="BtnMinimizar_Click"/>
+        <TextBox x:Name="Tbx_Comando" HorizontalAlignment="Left" Height="22" Margin="16,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Background="{x:Null}" Foreground="White" Visibility="Hidden"/>
+        <TextBox x:Name="tbxAccion" HorizontalAlignment="Left" Height="22" Margin="262,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215" Background="{x:Null}" Foreground="White" Visibility="Hidden"/>
+        <TextBox x:Name="TbxRespuesta" HorizontalAlignment="Left" Height="22" Margin="522,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Background="{x:Null}" Foreground="White" Visibility="Hidden"/>
+        <Button x:Name="BtnBuscar" Content="Button" HorizontalAlignment="Left" Margin="484,305,0,0" VerticalAlignment="Top" Width="22" Height="22" Foreground="{x:Null}" Click="BtnBuscar_Click" Visibility="Hidden">
+            <Button.Background>
+                <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/find.png"/>
+            </Button.Background>
+        </Button>
+        <Rectangle x:Name="rectangle_Exp" HorizontalAlignment="Left" Height="120" Margin="10,215,0,0" Stroke="#FF034278" VerticalAlignment="Top" Width="340" RadiusY="3" RadiusX="3" Visibility="Hidden">
+            <Rectangle.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF01203D" Offset="0"/>
+                    <GradientStop Color="#FF040A16" Offset="1"/>
+                </RadialGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="lblbdio" Content="BASE DE DATOS" HorizontalAlignment="Left" Height="28" Margin="10,215,0,0" VerticalAlignment="Top" Width="338" Foreground="#FF72B1EE" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="11" FontWeight="Bold" FontFamily="Arial" BorderThickness="12,0,0,0" Visibility="Hidden">
+            <Label.Effect>
+                <DropShadowEffect Color="#FF0076FF" ShadowDepth="0" BlurRadius="25"/>
+            </Label.Effect>
+        </Label>
+        <Button x:Name="BtnImportar" Content="IMPORTAR" HorizontalAlignment="Left" Height="25" Margin="20,305,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Arial" FontSize="11" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnImportar_Click" Visibility="Hidden"/>
+        <Button x:Name="BtnExportar" Content="EXPORTAR" HorizontalAlignment="Left" Height="25" Margin="223,305,0,0" Style="{DynamicResource EstiloUniversal}" VerticalAlignment="Top" Width="110" FontFamily="Arial" FontSize="11" UseLayoutRounding="True" Foreground="#FF6CA9E6" Click="BtnExportar_Click" Visibility="Hidden"/>
+        <Label x:Name="lbbdinfo" Content="Importar: Reemplaza la actual base de datos por una nueva&#xD;&#xA;Exportar: Guarde la base de datos en su pc.&#xD;&#xA;Nota: No cambiar el nombre a la base de datos." HorizontalAlignment="Left" Margin="10,243,0,0" VerticalAlignment="Top" Width="338" Height="57" Background="{x:Null}" Foreground="#FF72B1EE" Visibility="Hidden"/>
+        <Rectangle Fill="#FF62A1C3" HorizontalAlignment="Left" Height="19.8" Margin="761.202,349.606,0,0" RadiusY="10" RadiusX="10" Stroke="#FF2250B9" VerticalAlignment="Top" Width="19.8"/>
+        <Button x:Name="BtnAyuda" Content="Button" HorizontalAlignment="Left" Height="20" Margin="761.384,349.394,0,0" Style="{DynamicResource ButtonAyudaStyle}" VerticalAlignment="Top" Width="20" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="BtnAyuda_Click" ToolTip="Ayuda"/>
+    </Grid>
+</Window>

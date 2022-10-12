@@ -1,0 +1,8 @@
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Release\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Release\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Release\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Release\BibliotecaAsistente.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Release\BibliotecaAsistente.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Release\BibliotecaAsistente.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Release\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Release\BibliotecaAsistente.pdb

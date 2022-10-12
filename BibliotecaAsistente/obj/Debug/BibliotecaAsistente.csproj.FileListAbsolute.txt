@@ -1,0 +1,100 @@
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csprojResolveAssemblyReference.cache
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Assets\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente Virtual BETA\AsistenteVirtualBETA\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.csproj.CopyComplete
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\Telegram.Bot.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\BibliotecaAsistente\bin\Debug\Telegram.Bot.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\BibliotecaAsistente\obj\Debug\BibliotecaAsistente.pdb

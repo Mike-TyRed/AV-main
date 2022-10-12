@@ -1,0 +1,140 @@
+﻿<Window x:Class="AsistenteVirtualSTABLE.Ajustes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsistenteVirtualSTABLE"
+        mc:Ignorable="d"
+       Title="Settings" Height="300" Width="550" WindowStyle="None" AllowsTransparency="True" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" MouseLeftButtonDown="Window_MouseLeftButtonDown" Background="{x:Null}">
+    <Window.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" SnapsToDevicePixels="true" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        <Style x:Key="MouseOverButtons" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualStateGroup.Transitions>
+                                        <VisualTransition GeneratedDuration="0"/>
+                                    </VisualStateGroup.Transitions>
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background)" Storyboard.TargetName="border">
+                                                <DiscreteObjectKeyFrame KeyTime="0">
+                                                    <DiscreteObjectKeyFrame.Value>
+                                                        <SolidColorBrush Color="#FF241178"/>
+                                                    </DiscreteObjectKeyFrame.Value>
+                                                </DiscreteObjectKeyFrame>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background)" Storyboard.TargetName="border">
+                                                <DiscreteObjectKeyFrame KeyTime="0">
+                                                    <DiscreteObjectKeyFrame.Value>
+                                                        <SolidColorBrush Color="Navy"/>
+                                                    </DiscreteObjectKeyFrame.Value>
+                                                </DiscreteObjectKeyFrame>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle HorizontalAlignment="Left" Height="300" RadiusY="3" RadiusX="3" Stroke="#FF033765" VerticalAlignment="Top" Width="550">
+            <Rectangle.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF01203D" Offset="0"/>
+                    <GradientStop Color="#FF040A16" Offset="1"/>
+                </RadialGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Button x:Name="BtnNombreUsuario" Content="NOMBRE DE USUARIO" HorizontalAlignment="Left" Margin="26,50,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Disabled" Click="BtnNombreUsuario_Click" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnNombreAsistente" Content="NOMBRE ASISTENTE" HorizontalAlignment="Left" Margin="26,100,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Click="BtnNombreAsistente_Click" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnVoces" Content="VOCES INSTALADAS" HorizontalAlignment="Left" Margin="26,150,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Click="BtnVoces_Click" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnVolumen" Content="VOLUMEN GENERAL" HorizontalAlignment="Left" Margin="26,195,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Click="BtnVolumen_Click" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnOpacidad" Content="TRANSPARENCIA" HorizontalAlignment="Left" Margin="395,50,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Click="BtnOpacidad_Click" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnOpcionesAvanzadas" Content="OPCIONES AVANZADAS" HorizontalAlignment="Left" Margin="395,242,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnClima" Content="CLIMA" HorizontalAlignment="Left" Margin="395,195,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnInicioWindows" Content="INICIAR CON WINDOWS" HorizontalAlignment="Left" Margin="395,150,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Click="BtnInicioWindows_Click" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnOffMicro" Content="TIEMPO ESPERA REC." HorizontalAlignment="Left" Margin="395,100,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Click="BtnOffMicro_Click" Style="{DynamicResource MouseOverButtons}"/>
+        <Button x:Name="BtnConfidencia" Content="NIVEL DEL HABLA" HorizontalAlignment="Left" Margin="26,242,0,0" VerticalAlignment="Top" Width="125" Height="23" Foreground="#FFB3CAFF" Background="{x:Null}" BorderBrush="#FF033765" FontFamily="Arial" FontSize="10" Click="BtnConfidencia_Click" Style="{DynamicResource MouseOverButtons}"/>
+        <Label x:Name="lbl_configuracion" Content="CONFIGURACIÓN DEL SISTEMA" Height="28" Margin="173,10,177,0" VerticalAlignment="Top" Foreground="#FF72B1EE" FontSize="11" FontWeight="Bold" FontFamily="Arial" BorderThickness="12,0,0,0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+            <Label.Effect>
+                <DropShadowEffect Color="#FF0076FF" ShadowDepth="0" BlurRadius="25"/>
+            </Label.Effect>
+        </Label>
+        <Rectangle Fill="#FF040A16" HorizontalAlignment="Left" Margin="175,47,0,35" Width="200" Opacity="0.7" Stroke="#FF033765" RadiusX="3" RadiusY="3" Height="218"/>
+        <Button x:Name="BtnCerrar" Content="X" Style="{DynamicResource MouseOverButtons}" HorizontalAlignment="Left" Margin="522,0,0,0" VerticalAlignment="Top" Width="20" Height="30" Background="{x:Null}" Foreground="#FF72B1EE" BorderBrush="{x:Null}" FontFamily="Arial" FontSize="14" Click="BtnCerrar_Click"/>
+        <Button x:Name="BtnMinimizar" Content="_" Style="{DynamicResource MouseOverButtons}" Margin="500,0,30,0" VerticalAlignment="Top" Height="30" Background="{x:Null}" Foreground="#FF72B1EE" BorderBrush="{x:Null}" FontFamily="Arial" Click="BtnMinimizar_Click"/>
+        <Label x:Name="lbl_info" Content="" Margin="185,50,185,0" VerticalAlignment="Top" Foreground="#FFB3CAFF" Height="108" FontFamily="Segoe" VerticalContentAlignment="Center" UseLayoutRounding="False" TextOptions.TextHintingMode="Animated" ClipToBounds="True" Width="180" Padding="0,5"/>
+        <TextBox x:Name="tbx_NombreUsuario" HorizontalAlignment="Left" Height="25" Margin="210,218,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Background="{x:Null}" BorderBrush="#FF033765" Foreground="#FFB3CAFF" TextDecorations="{x:Null}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Visibility="Hidden"/>
+        <TextBox x:Name="tbx_NombreAsistente" HorizontalAlignment="Left" Height="25" Margin="210,218,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Background="{x:Null}" BorderBrush="#FF033765" Foreground="#FFB3CAFF" TextDecorations="{x:Null}" HorizontalContentAlignment="Center" Visibility="Hidden" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="cbx_Voces" HorizontalAlignment="Left" Margin="210,195,0,0" VerticalAlignment="Top" Width="135" DropDownClosed="Cbx_Voces_DropDownClosed" Visibility="Hidden"/>
+        <Slider x:Name="sld_Volumen" HorizontalAlignment="Left" Margin="210,199,0,0" VerticalAlignment="Top" Width="135" Maximum="100" TickPlacement="TopLeft" TickFrequency="100" Ticks="10 20 30 40 50 60 70 80 90" Visibility="Hidden" ValueChanged="Sld_Volumen_ValueChanged"/>
+        <Label x:Name="lblinfovolumen" Content="" HorizontalAlignment="Left" Margin="264,172,0,0" VerticalAlignment="Top" Foreground="White" Visibility="Hidden"/>
+        <Slider x:Name="Sld_Opacidad" HorizontalAlignment="Left" Margin="210,199,0,0" VerticalAlignment="Top" Width="135" Maximum="1" Minimum="0.2" TickPlacement="TopLeft" TickFrequency="0.1" Ticks="0 2" SelectionStart="0.2" SelectionEnd="0.2" Visibility="Hidden" ValueChanged="Sld_Opacidad_ValueChanged" AutoToolTipPlacement="TopLeft" AutoToolTipPrecision="1" Value="1"/>
+        <Slider x:Name="sld_confidencia" HorizontalAlignment="Left" Margin="210,199,0,0" VerticalAlignment="Top" Width="135" Maximum="1"  TickPlacement="TopLeft" Ticks="{x:Null}" Value="0.5" Visibility="Hidden" AutoToolTipPrecision="1" AutoToolTipPlacement="TopLeft"/>
+        <ComboBox x:Name="cbxOffMicro" HorizontalAlignment="Left" Margin="239,195,0,0" VerticalAlignment="Top" Width="80" Visibility="Hidden"/>
+        <CheckBox x:Name="checkInicio" Content="Iniciar con windows" HorizontalAlignment="Left" Margin="210,198,0,0" VerticalAlignment="Top" BorderBrush="{x:Null}" Foreground="White" Visibility="Hidden"/>
+        <Label x:Name="lblnombreAI" Content="" HorizontalAlignment="Left" Margin="227,169,0,0" VerticalAlignment="Top" Width="95" Foreground="#FFB3CAFF" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+    </Grid>
+</Window>

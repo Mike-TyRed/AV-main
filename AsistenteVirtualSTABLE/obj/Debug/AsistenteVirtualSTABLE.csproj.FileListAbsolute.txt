@@ -1,0 +1,580 @@
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.manifest
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.application
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.TrustInfo.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe.manifest
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.application
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.manifest
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.application
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.TrustInfo.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe.manifest
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.application
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Interop.WMPLib.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.AssemblyReference.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Interop.WMPLib.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.ResolveComReference.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Form1.resources
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Interop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Interop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.ResolveComReference.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Form1.resources
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Prueba asistente casi full\Prueba asistente casi full\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Interop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Interop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.ResolveComReference.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Form1.resources
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Interop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Interop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.ResolveComReference.cache
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Form1.resources
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\Interop.WMPLib.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Interop.WMPLib.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.ResolveComReference.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Form1.resources
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\PRIDE RACOON\Downloads\Prueba asistente i full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\Interop.WMPLib.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\Interop.WMPLib.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.ResolveComReference.cache
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Form1.resources
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\PRIDE RACOON\Documents\GitHub\AV\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.AssemblyReference.cache
